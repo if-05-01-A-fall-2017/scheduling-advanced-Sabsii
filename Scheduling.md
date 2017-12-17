@@ -1,10 +1,15 @@
 1. **Multiple Queues**
 
 First swap | Quanta 1  | Sum 1
+
 Second swap | Quanta 2  | Sum 3
+
 Third swap | Quanta 4  | Sum 7
+
 Fourth swap | Quanta 8  | Sum 15
+
 Fifth swap | Quanta 15 | Sum 30
+
 5 swaps
 
 2. **Shortest Process Next**
@@ -27,9 +32,13 @@ I/O-bound process is a mouse click for example. They should react fast.
 4. **Real Time Schedulable**
 
 35/50 + 20/100 + 10/200 + x/250 = 1
+
 0.95 + x/250 = 1
+
 x/250 = 0.05
+
 x = 0.05 * 250
+
 x = 12.5
 
 the largest value for x is 12.5
